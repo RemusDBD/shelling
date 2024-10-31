@@ -507,7 +507,7 @@ For example test cases (the number of all supported cases should be bigger than 
 
 
 ### 2) Some real examples
-- https://chris-young.net/2017/04/12/pentest-ltd-ctf-securi-tay-2017-walkthrough/
+- https://chris-young.net/pentest-ltd-ctf-securi-tay-2017-walkthrough/
 - https://www.exploit-db.com/exploits/41892/
 - https://www.exploit-db.com/exploits/34461/
 
